@@ -3,7 +3,11 @@
  */
 
 fun main(args: Array<String>) {
-    println("Hello to the World")
-    log("Adding new product")
-    log("Update product")
+    log("Master change the thing #1")
+
+    println("Hello to the World #1")
+    log("Adding new product #1")
+    log("Update product #1")
+
+    log("Master change the thing #1")
 }
