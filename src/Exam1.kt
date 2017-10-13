@@ -3,14 +3,13 @@
  */
 
 fun main(args: Array<String>) {
+    log("The change come from KhoaHoang")
     log("Master change the thing #1")
-    log("Master change the thing #2")
 
-    println("Hello to the World #1")
-    log("Adding new product #1")
-    log("Master change the thing #2")
-    log("Update product #1")
+    println("Hello to the World")
+    log("Adding new product")
+    log("Update product")
 
+    log("The change come from KhoaHoang")
     log("Master change the thing #1")
-    log("Master change the thing #2")
 }
