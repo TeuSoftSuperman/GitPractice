@@ -3,8 +3,11 @@
  */
 
 fun main(args: Array<String>) {
-    println("Hello to the World")
-    log("Adding new product. New Change #1")
-    log("Update product. New Change #2")
-    log("Delete product. New Change #3")
+    println("Hello to the World The Golden Circle")
+
+    log("Adding new product. New Change #11")
+    log("Update product. New Change #22")
+    log("Delete product. New Change #33")
+
+    log("Search product. New Change #44")
 }
