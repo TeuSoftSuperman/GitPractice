@@ -3,5 +3,6 @@
  */
 
 fun main(args: Array<String>) {
-    println("Hello world")
+    println("Hello to the World")
+    log("Adding new product")
 }
